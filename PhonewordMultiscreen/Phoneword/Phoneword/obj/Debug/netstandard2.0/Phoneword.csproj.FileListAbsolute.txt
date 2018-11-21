@@ -1,0 +1,14 @@
+C:\Users\Mass\Desktop\xamarin-forms-samples\PhonewordMultiscreen\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.deps.json
+C:\Users\Mass\Desktop\xamarin-forms-samples\PhonewordMultiscreen\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.dll
+C:\Users\Mass\Desktop\xamarin-forms-samples\PhonewordMultiscreen\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.pdb
+C:\Users\Mass\Desktop\xamarin-forms-samples\PhonewordMultiscreen\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csprojAssemblyReference.cache
+C:\Users\Mass\Desktop\xamarin-forms-samples\PhonewordMultiscreen\Phoneword\Phoneword\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mass\Desktop\xamarin-forms-samples\PhonewordMultiscreen\Phoneword\Phoneword\obj\Debug\netstandard2.0\CallHistoryPage.xaml.g.cs
+C:\Users\Mass\Desktop\xamarin-forms-samples\PhonewordMultiscreen\Phoneword\Phoneword\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Mass\Desktop\xamarin-forms-samples\PhonewordMultiscreen\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.CoreCompileInputs.cache
+C:\Users\Mass\Desktop\xamarin-forms-samples\PhonewordMultiscreen\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfoInputs.cache
+C:\Users\Mass\Desktop\xamarin-forms-samples\PhonewordMultiscreen\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfo.cs
+C:\Users\Mass\Desktop\xamarin-forms-samples\PhonewordMultiscreen\Phoneword\Phoneword\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Mass\Desktop\xamarin-forms-samples\PhonewordMultiscreen\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.dll
+C:\Users\Mass\Desktop\xamarin-forms-samples\PhonewordMultiscreen\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.pdb
+C:\Users\Mass\Desktop\xamarin-forms-samples\PhonewordMultiscreen\Phoneword\Phoneword\obj\Debug\netstandard2.0\CustomCell.xaml.g.cs

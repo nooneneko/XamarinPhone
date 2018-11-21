@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ViewCell xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Phoneword.CustomCell">
+  <ViewCell.View>
+        <StackLayout BackgroundColor="#eee"
+                        Orientation="Vertical">
+            <StackLayout Orientation="Horizontal">
+                <Image Source="{Binding ImageSource}" />
+                <Label Text="{Binding CallName}"
+                                TextColor="#f35e20" />
+                <Label Text="{Binding CallTime}"
+                                HorizontalOptions="EndAndExpand"
+                                TextColor="#503026" />
+            </StackLayout>
+        </StackLayout>
+    </ViewCell.View>
+</ViewCell>
