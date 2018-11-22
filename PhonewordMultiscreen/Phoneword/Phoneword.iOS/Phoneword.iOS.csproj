@@ -151,10 +151,4 @@
     <PackageReference Include="Xamarin.Forms" Version="3.4.0.1008975" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
-  <ItemGroup>
-    <ProjectReference Include="..\Phoneword\Phoneword.csproj">
-      <Project>{F9BAC896-342C-42EB-B4A0-6E553207A3F5}</Project>
-      <Name>Phoneword</Name>
-    </ProjectReference>
-  </ItemGroup>
 </Project>

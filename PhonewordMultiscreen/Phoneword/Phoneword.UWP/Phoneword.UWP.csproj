@@ -148,12 +148,6 @@
     <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform" Version="6.0.12" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Phoneword\Phoneword.csproj">
-      <Project>{F9BAC896-342C-42EB-B4A0-6E553207A3F5}</Project>
-      <Name>Phoneword</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <SDKReference Include="WindowsMobile, Version=10.0.17763.0">
       <Name>Windows Mobile Extensions for the UWP</Name>
     </SDKReference>
